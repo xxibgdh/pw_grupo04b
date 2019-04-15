@@ -5,6 +5,6 @@ Repositorio del grupo 04 de GTI 1B.
 
 Lista:
 
--lll
--ñññ
--kkk
+- lll
+- ñññ
+- kkk
